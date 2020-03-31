@@ -16,6 +16,10 @@ Part2:(click on the image)
 
 
 The CAN Decoder Box is in this Repo.
+it uses the MCO2515 Library: https://github.com/atc1441/arduino-mcp2515 (included) 
+and the LowPower Library for STM32duino: https://github.com/stm32duino/STM32LowPower
+
+Also you need to install The STM32duino Core/Library: https://github.com/stm32duino/Arduino_Core_STM32
 
 
 You can get the PCB files for the BluePill here: https://easyeda.com/lolerino/cantest
