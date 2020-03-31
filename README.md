@@ -15,7 +15,7 @@ Part2:(click on the image)
 [![YoutubeVideo](https://img.youtube.com/vi/_Ajn560TLIo/0.jpg)](https://www.youtube.com/watch?v=_Ajn560TLIo)
 
 
-The CAN Decoder Box is in this Repo.
+The CAN Decoder Box SourceCode is in this Repo.
 it uses the MCO2515 Library: https://github.com/atc1441/arduino-mcp2515 (included) 
 and the LowPower Library for STM32duino: https://github.com/stm32duino/STM32LowPower
 
